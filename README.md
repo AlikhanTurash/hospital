@@ -1,4 +1,4 @@
-# rapid_ui
+# hospital
 
 A new Flutter project.
 
